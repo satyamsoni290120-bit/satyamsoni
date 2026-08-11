@@ -1,3 +1,3 @@
 # satyamsoni
 This is my first git repository
-Author - Satyam soni
+Author - Satyam son
